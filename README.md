@@ -1,4 +1,4 @@
-## run_analysis.R
+## run_analysis
 
 This project is part of "Getting and Cleaning Data Course".
 
